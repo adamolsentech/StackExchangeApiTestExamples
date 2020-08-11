@@ -10,7 +10,8 @@ Run "dotnet test":
 -Either navigate to the directory of the csproj file and run "dotnet test StackExchangeApiTestExamples.csproj"
 or
 -Enter "dotnet test <directory>\StackExchangeApiTestExamples.csproj
- *Example:
+ 
+Example:
 <C:\Repos\StackExchangeApiTestExamples\StackExhangeApiTestExamples>dotnet test StackExhangeApiTestExamples.csproj
   
 dotnet test .[documentation](https://docs.microsoft.com/en-ca/dotnet/core/tools/dotnet-test?tabs=netcore2x)
