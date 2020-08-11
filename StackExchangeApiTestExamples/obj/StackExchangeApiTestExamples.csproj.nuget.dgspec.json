@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Adam\\source\\repos\\StackExchangeApiTestExamples\\StackExchangeApiTestExamples\\StackExchangeApiTestExamples.csproj": {}
+    "C:\\Repos\\StackExchangeApiTestExamples\\StackExchangeApiTestExamples\\StackExchangeApiTestExamples.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Adam\\source\\repos\\StackExchangeApiTestExamples\\StackExchangeApiTestExamples\\StackExchangeApiTestExamples.csproj": {
+    "C:\\Repos\\StackExchangeApiTestExamples\\StackExchangeApiTestExamples\\StackExchangeApiTestExamples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Adam\\source\\repos\\StackExchangeApiTestExamples\\StackExchangeApiTestExamples\\StackExchangeApiTestExamples.csproj",
+        "projectUniqueName": "C:\\Repos\\StackExchangeApiTestExamples\\StackExchangeApiTestExamples\\StackExchangeApiTestExamples.csproj",
         "projectName": "StackExchangeApiTestExamples",
-        "projectPath": "C:\\Users\\Adam\\source\\repos\\StackExchangeApiTestExamples\\StackExchangeApiTestExamples\\StackExchangeApiTestExamples.csproj",
+        "projectPath": "C:\\Repos\\StackExchangeApiTestExamples\\StackExchangeApiTestExamples\\StackExchangeApiTestExamples.csproj",
         "packagesPath": "C:\\Users\\Adam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Adam\\source\\repos\\StackExchangeApiTestExamples\\StackExchangeApiTestExamples\\obj\\",
+        "outputPath": "C:\\Repos\\StackExchangeApiTestExamples\\StackExchangeApiTestExamples\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

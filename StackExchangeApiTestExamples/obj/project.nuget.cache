@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kURueTEt5216yDc0heFyp8t5VlIbMCLcL/AvQQ34HhpprLS1U9jPLpHHT3A3jIZcugk/8arQhjCFWxwZvu4Bgg==",
+  "dgSpecHash": "xr8fYapVFM0Fm43YEVe55gdkDN58lta0/BNPxFE0VHZ9cmYFDFxBf3rIiSat/UpGcxGm8EgMa2WlVRFkSW/sXw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Adam\\source\\repos\\StackExchangeApiTestExamples\\StackExchangeApiTestExamples\\StackExchangeApiTestExamples.csproj",
+  "projectFilePath": "C:\\Repos\\StackExchangeApiTestExamples\\StackExchangeApiTestExamples\\StackExchangeApiTestExamples.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Adam\\.nuget\\packages\\microsoft.codecoverage\\16.7.0\\microsoft.codecoverage.16.7.0.nupkg.sha512",
     "C:\\Users\\Adam\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",

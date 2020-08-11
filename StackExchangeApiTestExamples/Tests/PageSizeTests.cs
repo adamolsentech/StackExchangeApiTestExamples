@@ -8,7 +8,7 @@ namespace StackExchangeApiTestExamples.Tests
     /// <summary>
     ///     Testing of the page_size parameter/attribute
     /// </summary>
-    //[TestFixture]
+    [TestFixture]
     public class PageSizeTests : StackExchangeApiBaseTest
     {
         /// <summary>
